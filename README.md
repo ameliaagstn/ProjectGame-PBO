@@ -1,5 +1,5 @@
 # Project Game pada Javascript
-## Membuat game : 
+## Membuat game : Rush Rectangle
 
 Anggota kelompok :
 * Kartika Sari - 2117051039
